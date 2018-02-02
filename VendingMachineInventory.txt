@@ -1,0 +1,7 @@
+Coke,2.0,can,ounces,12.0,15
+Sprite,2.0,can,ounces,12.0,15
+Gatorade,3.0,bottle,ounces,15.0,20
+Doritos,1.0,bag,ounces,1.5,25
+Pretzels,1.0,bag,ounces,1.5,25
+Snickers,1.5,bar,ounces,2.0,20
+Butterfinger,1.5,bar,ounces,2.0,20
